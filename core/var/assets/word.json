@@ -1,0 +1,1107 @@
+[
+  {
+    "word": "apple",
+    "hint": "A red or green fruit."
+  },
+  {
+    "word": "banana",
+    "hint": "A yellow, elongated fruit with a thick skin."
+  },
+  {
+    "word": "coffee",
+    "hint": "A popular beverage made from roasted coffee beans."
+  },
+  {
+    "word": "diamond",
+    "hint": "A precious gemstone known for its brilliance and clarity."
+  },
+  {
+    "word": "fireworks",
+    "hint": "Explosive pyrotechnic displays often used in celebrations."
+  },
+  {
+    "word": "helicopter",
+    "hint": "An aircraft that lifts off vertically and is propelled by rotating blades."
+  },
+  {
+    "word": "island",
+    "hint": "A piece of land completely surrounded by water."
+  },
+  {
+    "word": "jungle",
+    "hint": "A dense, tropical forest with a wide variety of plant and animal species."
+  },
+  {
+    "word": "kangaroo",
+    "hint": "A marsupial from Australia known for its powerful hind legs and pouch."
+  },
+  {
+    "word": "lamp",
+    "hint": "A portable light source with a bulb and shade."
+  },
+  {
+    "word": "moon",
+    "hint": "A natural satellite that orbits around a planet."
+  },
+  {
+    "word": "ocean",
+    "hint": "A vast body of saltwater that covers most of the Earth's surface."
+  },
+  {
+    "word": "piano",
+    "hint": "A musical instrument with keys that produce sound when struck by hammers."
+  },
+  {
+    "word": "quill",
+    "hint": "A writing instrument made from a bird's feather."
+  },
+  {
+    "word": "rain",
+    "hint": "Water falling from the clouds in droplets."
+  },
+  {
+    "word": "sailboat",
+    "hint": "A boat with sails, typically used for recreation or sport."
+  },
+  {
+    "word": "tiger",
+    "hint": "A large carnivorous feline with a distinctive orange coat and black stripes."
+  },
+  {
+    "word": "umbrella",
+    "hint": "A device used for protection against rain or sunlight, consisting of a collapsible canopy attached to a folding metal frame."
+  },
+  {
+    "word": "volcano",
+    "hint": "A mountain or hill that erupts molten lava and gases from its interior."
+  },
+  {
+    "word": "waterfall",
+    "hint": "A cascade of water flowing from a height, often found in rivers and streams."
+  },
+  {
+    "word": "yacht",
+    "hint": "A luxurious and elegant boat used for pleasure or racing."
+  },
+  {
+    "word": "zebra",
+    "hint": "An African mammal with black and white stripes."
+  },
+  {
+    "word": "breeze",
+    "hint": "A gentle wind or current of air."
+  },
+  {
+    "word": "camera",
+    "hint": "A device used to capture and record photographs or videos."
+  },
+  {
+    "word": "dolphin",
+    "hint": "A highly intelligent marine mammal known for its playful behavior."
+  },
+  {
+    "word": "earthquake",
+    "hint": "The shaking of the ground caused by sudden movement of tectonic plates."
+  },
+  {
+    "word": "feather",
+    "hint": "A lightweight, flat structure that forms the outer covering of birds' bodies."
+  },
+  {
+    "word": "garden",
+    "hint": "An area where plants, flowers, and sometimes fruits or vegetables are grown."
+  },
+  {
+    "word": "hurricane",
+    "hint": "A severe tropical cyclone with strong winds and heavy rainfall."
+  },
+  {
+    "word": "iceberg",
+    "hint": "A large floating mass of ice detached from a glacier or ice sheet."
+  },
+  {
+    "word": "jigsaw",
+    "hint": "A type of puzzle that requires the assembly of various interlocking pieces to form a picture."
+  },
+  {
+    "word": "kettle",
+    "hint": "A container with a spout and handle used for boiling water."
+  },
+  {
+    "word": "laptop",
+    "hint": "A portable computer designed to be used on one's lap."
+  },
+  {
+    "word": "magnet",
+    "hint": "An object or material that produces a magnetic field and attracts certain metals."
+  },
+  {
+    "word": "notebook",
+    "hint": "A small, lightweight book used for writing, notes, or sketches."
+  },
+  {
+    "word": "octopus",
+    "hint": "A marine mollusk with eight tentacles and a soft, sac-like body."
+  },
+  {
+    "word": "parachute",
+    "hint": "A device used to slow the descent of a person or object through the air."
+  },
+  {
+    "word": "quicksand",
+    "hint": "A loose, wet sand that traps and engulfs anything that steps on it."
+  },
+  {
+    "word": "raincoat",
+    "hint": "A waterproof coat worn to protect against rain."
+  },
+  {
+    "word": "sunflower",
+    "hint": "A tall plant with large, yellow flowers that turn to face the sun."
+  },
+  {
+    "word": "telescope",
+    "hint": "An optical instrument used to view distant objects in space."
+  },
+  {
+    "word": "umbrella",
+    "hint": "A device used for protection against rain or sunlight, consisting of a collapsible canopy attached to a folding metal frame."
+  },
+  {
+    "word": "volcano",
+    "hint": "A mountain or hill that erupts molten lava and gases from its interior."
+  },
+  {
+    "word": "waterfall",
+    "hint": "A cascade of water flowing from a height, often found in rivers and streams."
+  },
+  {
+    "word": "network",
+    "hint": "An interconnected system or group of people, organizations, or objects."
+  },
+  {
+    "word": "abundance",
+    "hint": "A large quantity or plenty of something."
+  },
+  {
+    "word": "broomstick",
+    "hint": "A long stick or handle attached to a broom."
+  },
+  {
+    "word": "challenge",
+    "hint": "A difficult task or situation that requires effort and determination to overcome."
+  },
+  {
+    "word": "defendant",
+    "hint": "A person accused in a court of law."
+  },
+  {
+    "word": "eucalyptus",
+    "hint": "A type of tree native to Australia, known for its aromatic leaves."
+  },
+  {
+    "word": "fascinate",
+    "hint": "To attract and hold someone's attention or interest."
+  },
+  {
+    "word": "generation",
+    "hint": "All the people born and living at the same time or of approximately the same age."
+  },
+  {
+    "word": "harmonica",
+    "hint": "A small musical instrument played by blowing and drawing air through reeds."
+  },
+  {
+    "word": "impressive",
+    "hint": "Making a strong or striking impact on someone's mind or feelings."
+  },
+  {
+    "word": "jubilant",
+    "hint": "Feeling or expressing great joy and happiness."
+  },
+  {
+    "word": "kaleidoscope",
+    "hint": "A constantly changing pattern or sequence of elements."
+  },
+  {
+    "word": "luminous",
+    "hint": "Bright or shining, especially in the dark."
+  },
+  {
+    "word": "medallion",
+    "hint": "A round or oval piece of metal worn as a decoration, often on a necklace."
+  },
+  {
+    "word": "nourishment",
+    "hint": "The process of providing food and other substances necessary for growth, health, and good condition."
+  },
+  {
+    "word": "obsession",
+    "hint": "An intense preoccupation or fixation on something or someone."
+  },
+  {
+    "word": "yacht",
+    "hint": "A luxurious and elegant boat used for pleasure or racing."
+  },
+  {
+    "word": "zebra",
+    "hint": "An African mammal with black and white stripes."
+  },
+  {
+    "word": "airplane",
+    "hint": "A powered flying vehicle with fixed wings and a jet or propeller engine."
+  },
+  {
+    "word": "butterfly",
+    "hint": "An insect with colorful wings that undergo metamorphosis."
+  },
+  {
+    "word": "cactus",
+    "hint": "A spiny, desert plant that can store water in its stems."
+  },
+  {
+    "word": "dandelion",
+    "hint": "A bright yellow flower with fluffy seeds that disperse in the wind."
+  },
+  {
+    "word": "fireplace",
+    "hint": "An indoor structure used to contain and control a fire for heating or cooking."
+  },
+  {
+    "word": "honeybee",
+    "hint": "A flying insect that collects nectar to produce honey."
+  },
+  {
+    "word": "ice cream",
+    "hint": "A frozen dessert made from dairy products and flavored with various ingredients."
+  },
+  {
+    "word": "jungle",
+    "hint": "A dense, tropical forest with a wide variety of plant and animal species."
+  },
+  {
+    "word": "kangaroo",
+    "hint": "A marsupial from Australia known for its powerful hind legs and pouch."
+  },
+  {
+    "word": "lighthouse",
+    "hint": "A tall tower with a bright light used to guide ships at sea."
+  },
+  {
+    "word": "magnolia",
+    "hint": "A fragrant flower with large, showy white or pink petals."
+  },
+  {
+    "word": "nightingale",
+    "hint": "A small songbird known for its beautiful and melodic nighttime singing."
+  },
+  {
+    "word": "ostrich",
+    "hint": "A large flightless bird with long legs and neck, native to Africa."
+  },
+  {
+    "word": "penguin",
+    "hint": "A flightless bird found in the Southern Hemisphere, often dressed in a tuxedo-like plumage."
+  },
+  {
+    "word": "acrobatic",
+    "hint": "Relating to impressive feats of balance, agility, and coordination."
+  },
+  {
+    "word": "ballerina",
+    "hint": "A female ballet dancer who performs graceful and precise movements."
+  },
+  {
+    "word": "cappuccino",
+    "hint": "An Italian coffee drink made with espresso, steamed milk, and frothy milk foam."
+  },
+  {
+    "word": "dinosaur",
+    "hint": "An extinct reptile that lived millions of years ago, known for its massive size."
+  },
+  {
+    "word": "eleven",
+    "hint": "The number following ten."
+  },
+  {
+    "word": "firefighter",
+    "hint": "A person who is trained to extinguish fires and protect life and property."
+  },
+  {
+    "word": "globe",
+    "hint": "A spherical representation of the Earth or celestial objects."
+  },
+  {
+    "word": "hiking",
+    "hint": "The activity of taking long walks in nature, usually along trails and in the mountains."
+  },
+  {
+    "word": "igloo",
+    "hint": "A dome-shaped shelter made from blocks of snow, traditionally used by the Inuit people."
+  },
+  {
+    "word": "juggler",
+    "hint": "A person who can keep several objects in motion in the air simultaneously."
+  },
+  {
+    "word": "koala",
+    "hint": "An Australian marsupial known for its round face and fondness for eucalyptus leaves."
+  },
+  {
+    "word": "lighthouse",
+    "hint": "A tall tower with a bright light used to guide ships at sea."
+  },
+  {
+    "word": "magnificent",
+    "hint": "Impressively beautiful, grand, or awe-inspiring."
+  },
+  {
+    "word": "chocolate",
+    "hint": "A sweet, brown treat often used in desserts."
+  },
+  {
+    "word": "guitar",
+    "hint": "A musical instrument with strings that is played with fingers or a pick."
+  },
+  {
+    "word": "lighthouse",
+    "hint": "A tall tower with a bright light used to guide ships at sea."
+  },
+  {
+    "word": "mountain",
+    "hint": "A large landform that rises steeply above its surroundings."
+  },
+  {
+    "word": "penguin",
+    "hint": "A flightless bird found in the Southern Hemisphere, often dressed in a tuxedo-like plumage."
+  },
+  {
+    "word": "rainbow",
+    "hint": "A beautiful arc of colors in the sky, often seen after rain showers."
+  },
+  {
+    "word": "starfish",
+    "hint": "A marine animal with a star-shaped body and arms that live on the ocean floor."
+  },
+  {
+    "word": "bicycle",
+    "hint": "A two-wheeled vehicle powered by pedals."
+  },
+  {
+    "word": "book",
+    "hint": "A written or printed work consisting of pages glued or sewn together along one side."
+  },
+  {
+    "word": "butterfly",
+    "hint": "An insect with colorful wings that undergo metamorphosis."
+  },
+  {
+    "word": "castle",
+    "hint": "A large, fortified building often associated with medieval times."
+  },
+  {
+    "word": "jackal",
+    "hint": "A carnivorous mammal resembling a small wolf, native to Africa and Asia."
+  },
+  {
+    "word": "kayak",
+    "hint": "A small, narrow boat used by a single person, propelled with a double-bladed paddle."
+  },
+  {
+    "word": "llama",
+    "hint": "A South American mammal known for its woolly coat and long neck."
+  },
+  {
+    "word": "mosquito",
+    "hint": "A small flying insect known for its irritating bites and ability to transmit diseases."
+  },
+  {
+    "word": "narwhal",
+    "hint": "A medium-sized toothed whale with a long, spiral tusk extending from its upper jaw."
+  },
+  {
+    "word": "ocean",
+    "hint": "A vast body of saltwater that covers most of the Earth's surface."
+  },
+  {
+    "word": "avalanche",
+    "hint": "A rapid flow of snow down a steep slope."
+  },
+  {
+    "word": "broccoli",
+    "hint": "A green vegetable with tightly packed, edible flower buds."
+  },
+  {
+    "word": "candle",
+    "hint": "A cylindrical block of wax with a wick in the middle, used for lighting."
+  },
+  {
+    "word": "dolphin",
+    "hint": "A highly intelligent marine mammal known for its playful behavior."
+  },
+  {
+    "word": "eleven",
+    "hint": "The number following ten."
+  },
+  {
+    "word": "firefighter",
+    "hint": "A person who is trained to extinguish fires and protect life and property."
+  },
+  {
+    "word": "globe",
+    "hint": "A spherical representation of the Earth or celestial objects."
+  },
+  {
+    "word": "hiking",
+    "hint": "The activity of taking long walks in nature, usually along trails and in the mountains."
+  },
+  {
+    "word": "igloo",
+    "hint": "A dome-shaped shelter made from blocks of snow, traditionally used by the Inuit people."
+  },
+  {
+    "word": "juggler",
+    "hint": "A person who can keep several objects in motion in the air simultaneously."
+  },
+  {
+    "word": "koala",
+    "hint": "An Australian marsupial known for its round face and fondness for eucalyptus leaves."
+  },
+  {
+    "word": "lighthouse",
+    "hint": "A tall tower with a bright light used to guide ships at sea."
+  },
+  {
+    "word": "magnificent",
+    "hint": "Impressively beautiful, grand, or awe-inspiring."
+  },
+  {
+    "word": "ninja",
+    "hint": "A skilled covert mercenary or warrior from feudal Japan."
+  },
+  {
+    "word": "oasis",
+    "hint": "A fertile spot in a desert where water can be found, often surrounded by vegetation."
+  },
+  {
+    "word": "parrot",
+    "hint": "A colorful bird with a strong curved beak, often capable of mimicking human speech."
+  },
+  {
+    "word": "quilt",
+    "hint": "A warm bed cover made of two layers of cloth filled with padding and stitched together."
+  },
+  {
+    "word": "rainbow",
+    "hint": "A beautiful arc of colors in the sky, often seen after rain showers."
+  },
+  {
+    "word": "saxophone",
+    "hint": "A musical instrument of the woodwind family, often used in jazz and classical music."
+  },
+  {
+    "word": "tornado",
+    "hint": "A violent rotating column of air extending from a thunderstorm to the ground."
+  },
+  {
+    "word": "unicorn",
+    "hint": "A mythical horse-like creature with a single twisted horn on its forehead."
+  },
+  {
+    "word": "violin",
+    "hint": "A string instrument played with a bow, producing melodious sounds."
+  },
+  {
+    "word": "watermelon",
+    "hint": "A juicy fruit with sweet, red flesh and a green rind."
+  },
+  {
+    "word": "ninja",
+    "hint": "A skilled covert mercenary or warrior from feudal Japan."
+  },
+  {
+    "word": "oasis",
+    "hint": "A fertile spot in a desert where water can be found, often surrounded by vegetation."
+  },
+  {
+    "word": "parrot",
+    "hint": "A colorful bird with a strong curved beak, often capable of mimicking human speech."
+  },
+  {
+    "word": "quilt",
+    "hint": "A warm bed cover made of two layers of cloth filled with padding and stitched together."
+  },
+  {
+    "word": "rainbow",
+    "hint": "A beautiful arc of colors in the sky, often seen after rain showers."
+  },
+  {
+    "word": "saxophone",
+    "hint": "A musical instrument of the woodwind family, often used in jazz and classical music."
+  },
+  {
+    "word": "tornado",
+    "hint": "A violent rotating column of air extending from a thunderstorm to the ground."
+  },
+  {
+    "word": "unicorn",
+    "hint": "A mythical horse-like creature with a single twisted horn on its forehead."
+  },
+  {
+    "word": "violin",
+    "hint": "A string instrument played with a bow, producing melodious sounds."
+  },
+  {
+    "word": "watermelon",
+    "hint": "A juicy fruit with sweet, red flesh and a green rind."
+  },
+  {
+    "word": "yoga",
+    "hint": "A physical, mental, and spiritual practice that originated in ancient India."
+  },
+  {
+    "word": "zeppelin",
+    "hint": "A type of airship characterized by its elongated, cigar-shaped structure."
+  },
+  {
+    "word": "astronaut",
+    "hint": "A person trained to travel and work in space."
+  },
+  {
+    "word": "ballet",
+    "hint": "A classical dance form characterized by grace and precision of movement."
+  },
+  {
+    "word": "caterpillar",
+    "hint": "The larval stage of butterflies and moths, often with a segmented body."
+  },
+  {
+    "word": "dandelion",
+    "hint": "A bright yellow flower with fluffy seeds that disperse in the wind."
+  },
+  {
+    "word": "giraffe",
+    "hint": "A tall African mammal with a long neck and distinctive coat pattern."
+  },
+  {
+    "word": "harp",
+    "hint": "A musical instrument with strings played by plucking them with fingers."
+  },
+  {
+    "word": "island",
+    "hint": "A piece of land completely surrounded by water."
+  },
+  {
+    "word": "yoga",
+    "hint": "A physical, mental, and spiritual practice that originated in ancient India."
+  },
+  {
+    "word": "zeppelin",
+    "hint": "A type of airship characterized by its elongated, cigar-shaped structure."
+  },
+  {
+    "word": "astronaut",
+    "hint": "A person trained to travel and work in space."
+  },
+  {
+    "word": "ballet",
+    "hint": "A classical dance form characterized by grace and precision of movement."
+  },
+  {
+    "word": "caterpillar",
+    "hint": "The larval stage of butterflies and moths, often with a segmented body."
+  },
+  {
+    "word": "dandelion",
+    "hint": "A bright yellow flower with fluffy seeds that disperse in the wind."
+  },
+  {
+    "word": "harp",
+    "hint": "A musical instrument with strings played by plucking them with fingers."
+  },
+  {
+    "word": "island",
+    "hint": "A piece of land completely surrounded by water."
+  },
+  {
+    "word": "jackal",
+    "hint": "A carnivorous mammal resembling a small wolf, native to Africa and Asia."
+  },
+  {
+    "word": "kayak",
+    "hint": "A small, narrow boat used by a single person, propelled with a double-bladed paddle."
+  },
+  {
+    "word": "llama",
+    "hint": "A South American mammal known for its woolly coat and long neck."
+  },
+  {
+    "word": "mosquito",
+    "hint": "A small flying insect known for its irritating bites and ability to transmit diseases."
+  },
+  {
+    "word": "narwhal",
+    "hint": "A medium-sized toothed whale with a long, spiral tusk extending from its upper jaw."
+  },
+  {
+    "word": "ocean",
+    "hint": "A vast body of saltwater that covers most of the Earth's surface."
+  },
+  {
+    "word": "panda",
+    "hint": "A large bear-like mammal native to China, known for its distinctive black and white markings."
+  },
+  {
+    "word": "quokka",
+    "hint": "A small herbivorous marsupial native to Australia, known for its friendly and smiling appearance."
+  },
+  {
+    "word": "raccoon",
+    "hint": "A medium-sized nocturnal mammal native to North America, recognized by its black mask-like markings around the eyes."
+  },
+  {
+    "word": "Afghanistan",
+    "hint": "A landlocked country in South Asia, known for its diverse culture and rugged terrain."
+  },
+  {
+    "word": "Albania",
+    "hint": "A small country in Southeast Europe, known for its rich history and stunning landscapes."
+  },
+  {
+    "word": "Algeria",
+    "hint": "A large country in North Africa, known for its Sahara Desert and ancient ruins."
+  },
+  {
+    "word": "Andorra",
+    "hint": "A tiny principality in the Pyrenees mountains, known for its skiing and tax haven status."
+  },
+  {
+    "word": "Angola",
+    "hint": "A country in Southern Africa, known for its natural resources and wildlife."
+  },
+  {
+    "word": "Antigua and Barbuda",
+    "hint": "A Caribbean nation consisting of two major islands and several smaller ones."
+  },
+  {
+    "word": "Argentina",
+    "hint": "A vast country in South America, known for its tango, beef, and diverse landscapes."
+  },
+  {
+    "word": "Armenia",
+    "hint": "A small country in the South Caucasus, known for its ancient history and cultural heritage."
+  },
+  {
+    "word": "Australia",
+    "hint": "A large island country and continent in the Southern Hemisphere, known for its unique wildlife and natural wonders."
+  },
+  {
+    "word": "Austria",
+    "hint": "A Central European country known for its alpine scenery, classical music, and cultural heritage."
+  },
+  {
+    "word": "Azerbaijan",
+    "hint": "A country at the crossroads of Eastern Europe and Western Asia, known for its rich oil reserves and diverse landscapes."
+  },
+  {
+    "word": "Bahamas",
+    "hint": "A Caribbean country comprising 700 islands and over 2,000 cays."
+  },
+  {
+    "word": "Bahrain",
+    "hint": "A small island country in the Persian Gulf, known for its financial sector and modern architecture."
+  },
+  {
+    "word": "Bangladesh",
+    "hint": "A densely populated country in South Asia, known for its fertile delta and vibrant culture."
+  },
+  {
+    "word": "Barbados",
+    "hint": "A Caribbean island country known for its white sandy beaches and warm climate."
+  },
+  {
+    "word": "Belarus",
+    "hint": "A landlocked country in Eastern Europe, known for its rich history and Soviet-era architecture."
+  },
+  {
+    "word": "Belgium",
+    "hint": "A Western European country known for its chocolate, waffles, and beer."
+  },
+  {
+    "word": "Belize",
+    "hint": "A Central American country known for its tropical forests, Mayan ruins, and the Great Blue Hole."
+  },
+  {
+    "word": "Benin",
+    "hint": "A West African country known for its diverse culture and rich history."
+  },
+  {
+    "word": "Bhutan",
+    "hint": "A landlocked country in the Eastern Himalayas, known for its stunning landscapes and Gross National Happiness."
+  },
+  {
+    "word": "Bolivia",
+    "hint": "A landlocked country in South America, known for its Andean mountains and diverse indigenous cultures."
+  },
+  {
+    "word": "Bosnia and Herzegovina",
+    "hint": "A country in Southeast Europe known for its complex history and beautiful landscapes."
+  },
+  {
+    "word": "Botswana",
+    "hint": "A Southern African country known for its wildlife, national parks, and diamond industry."
+  },
+  {
+    "word": "Brazil",
+    "hint": "A vast country in South America, known for its Amazon rainforest, carnival, and soccer prowess."
+  },
+  {
+    "word": "Brunei",
+    "hint": "A small country on the island of Borneo, known for its rich oil reserves and cultural diversity."
+  },
+  {
+    "word": "Bulgaria",
+    "hint": "A country in Southeast Europe known for its ancient ruins, rose valleys, and Black Sea coast."
+  },
+  {
+    "word": "Burkina Faso",
+    "hint": "A landlocked country in West Africa known for its diverse culture and traditional music."
+  },
+  {
+    "word": "Burundi",
+    "hint": "A landlocked country in East Africa known for its lush landscapes and wildlife."
+  },
+  {
+    "word": "Cabo Verde",
+    "hint": "An island country in the Atlantic Ocean known for its beautiful beaches and Creole culture."
+  },
+  {
+    "word": "Cambodia",
+    "hint": "A Southeast Asian country known for its ancient temples, including Angkor Wat."
+  },
+  {
+    "word": "Cameroon",
+    "hint": "A Central African country known for its diverse landscapes and cultures."
+  },
+  {
+    "word": "Canada",
+    "hint": "A vast country in North America known for its stunning natural beauty and multicultural cities."
+  },
+  {
+    "word": "Central African Republic",
+    "hint": "A landlocked country in Central Africa known for its diverse wildlife and natural resources."
+  },
+  {
+    "word": "Chad",
+    "hint": "A landlocked country in Central Africa known for its Sahara Desert and diverse ethnic groups."
+  },
+  {
+    "word": "Chile",
+    "hint": "A long, narrow country in South America known for its diverse geography and wine production."
+  },
+  {
+    "word": "China",
+    "hint": "The world's most populous country, known for its ancient civilization and modern economic power."
+  },
+  {
+    "word": "Colombia",
+    "hint": "A country in South America known for its coffee, emeralds, and diverse landscapes."
+  },
+  {
+    "word": "Comoros",
+    "hint": "A small island country in the Indian Ocean known for its volcanic islands and unique culture."
+  },
+  {
+    "word": "Congo (Congo-Brazzaville)",
+    "hint": "A country in Central Africa known for its rainforests and cultural diversity."
+  },
+  {
+    "word": "Costa Rica",
+    "hint": "A Central American country known for its biodiversity, rainforests, and ecotourism."
+  },
+  {
+    "word": "Croatia",
+    "hint": "A European country known for its stunning Adriatic coastline and rich history."
+  },
+  {
+    "word": "Cuba",
+    "hint": "A Caribbean island country known for its vintage cars, cigars, and vibrant culture."
+  },
+  {
+    "word": "Cyprus",
+    "hint": "An island country in the Eastern Mediterranean known for its beautiful beaches and ancient history."
+  },
+  {
+    "word": "sculpture",
+    "hint": "A three-dimensional work of art created by carving, molding, or shaping materials."
+  },
+  {
+    "word": "toucan",
+    "hint": "A colorful tropical bird with a large, colorful bill."
+  },
+  {
+    "word": "violinist",
+    "hint": "A person who plays the violin as a skilled musician."
+  },
+  {
+    "word": "waterfall",
+    "hint": "A cascade of water flowing from a height, often found in rivers and streams."
+  },
+  {
+    "word": "yacht",
+    "hint": "A luxurious and elegant boat used for pleasure or racing."
+  },
+  {
+    "word": "zebra",
+    "hint": "An African mammal with black and white stripes."
+  },
+  {
+    "word": "anchor",
+    "hint": "A heavy object dropped to the bottom of a body of water to keep a boat or ship in place."
+  },
+  {
+    "word": "butterfly",
+    "hint": "An insect with colorful wings that undergo metamorphosis."
+  },
+  {
+    "word": "cactus",
+    "hint": "A spiny, desert plant that can store water in its stems."
+  },
+  {
+    "word": "dandelion",
+    "hint": "A bright yellow flower with fluffy seeds that disperse in the wind."
+  },
+  {
+    "word": "fjord",
+    "hint": "A long, narrow inlet with steep sides, typically formed by glacial activity."
+  },
+  {
+    "word": "harp",
+    "hint": "A musical instrument with strings played by plucking them with fingers."
+  },
+  {
+    "word": "island",
+    "hint": "A piece of land completely surrounded by water."
+  },
+  {
+    "word": "jackal",
+    "hint": "A carnivorous mammal resembling a small wolf, native to Africa and Asia."
+  },
+  {
+    "word": "kayak",
+    "hint": "A small, narrow boat used by a single person, propelled with a double-bladed paddle."
+  },
+  {
+    "word": "llama",
+    "hint": "A South American mammal known for its woolly coat and long neck."
+  },
+  {
+    "word": "mosquito",
+    "hint": "A small flying insect known for its irritating bites and ability to transmit diseases."
+  },
+  {
+    "word": "narwhal",
+    "hint": "A medium-sized toothed whale with a long, spiral tusk extending from its upper jaw."
+  },
+  {
+    "word": "ocean",
+    "hint": "A vast body of saltwater that covers most of the Earth's surface."
+  },
+  {
+    "word": "panda",
+    "hint": "A large bear-like mammal native to China, known for its distinctive black and white markings."
+  },
+  {
+    "word": "quokka",
+    "hint": "A small herbivorous marsupial native to Australia, known for its friendly and smiling appearance."
+  },
+  {
+    "word": "raccoon",
+    "hint": "A medium-sized nocturnal mammal native to North America, recognized by its black mask-like markings around the eyes."
+  },
+  {
+    "word": "sunflower",
+    "hint": "A tall plant with large, yellow flowers that turn to face the sun."
+  },
+  {
+    "word": "tiger",
+    "hint": "A large carnivorous feline with a distinctive orange coat and black stripes."
+  },
+  {
+    "word": "umbrella",
+    "hint": "A device used for protection against rain or sunlight, consisting of a collapsible canopy attached to a folding metal frame."
+  },
+  {
+    "word": "volcano",
+    "hint": "A mountain or hill that erupts molten lava and gases from its interior."
+  },
+  {
+    "word": "watermelon",
+    "hint": "A juicy fruit with sweet, red flesh and a green rind."
+  },
+  {
+    "word": "yoga",
+    "hint": "A physical, mental, and spiritual practice that originated in ancient India."
+  },
+  {
+    "word": "zeppelin",
+    "hint": "A type of airship characterized by its elongated, cigar-shaped structure."
+  },
+  {
+    "word": "astronaut",
+    "hint": "A person trained to travel and work in space."
+  },
+  {
+    "word": "ballet",
+    "hint": "A classical dance form characterized by grace and precision of movement."
+  },
+  {
+    "word": "caterpillar",
+    "hint": "The larval stage of butterflies and moths, often with a segmented body."
+  },
+  {
+    "word": "dandelion",
+    "hint": "A bright yellow flower with fluffy seeds that disperse in the wind."
+  },
+  
+  {
+    "word": "lighthearted",
+    "hint": "Carefree, cheerful, or not serious."
+  },
+  {
+    "word": "acknowledgment",
+    "hint": "The act of recognizing or admitting the existence or truth of something."
+  },
+  {
+    "word": "beneficialness",
+    "hint": "The quality of being advantageous or beneficial."
+  },
+  {
+    "word": "comprehensive",
+    "hint": "Including all aspects or elements of something."
+  },
+  {
+    "word": "determination",
+    "hint": "The act of making a firm decision or resolving to do something."
+  },
+  {
+    "word": "extermination",
+    "hint": "The act of completely destroying or eradicating something or someone."
+  },
+  {
+    "word": "fluctuations",
+    "hint": "Irregular variations or changes in an amount, value, or level."
+  },
+  {
+    "word": "gratification",
+    "hint": "Pleasure or satisfaction derived from the fulfillment of one's desires."
+  },
+  {
+    "word": "hypothesized",
+    "hint": "Formulated as a tentative explanation based on limited evidence."
+  },
+  {
+    "word": "inquisitively",
+    "hint": "With a desire to learn or investigate things in a curious manner."
+  },
+  {
+    "word": "juxtaposition",
+    "hint": "The act of placing things close together or side by side for contrasting effect."
+  },
+  {
+    "word": "kaleidoscopic",
+    "hint": "A constantly changing pattern of colors and shapes, like in a kaleidoscope."
+  },
+  {
+    "word": "lightheartedly",
+    "hint": "In a cheerful and carefree manner."
+  },
+  {
+    "word": "manipulations",
+    "hint": "Actions or strategies to control or influence something or someone cleverly."
+  },
+  {
+    "word": "negotiations",
+    "hint": "The process of discussing something in order to reach an agreement or settlement."
+  },
+  {
+    "word": "outstandingly",
+    "hint": "In an exceptionally good or remarkable way."
+  },
+  {
+    "word": "procrastinate",
+    "hint": "To delay or postpone doing something, often out of avoidance or laziness."
+  },
+  {
+    "word": "quartermaster",
+    "hint": "An officer responsible for providing supplies, especially in the military."
+  },
+  {
+    "word": "rehabilitated",
+    "hint": "Restored to health or normal life through therapy or training."
+  },
+  {
+    "word": "harp",
+    "hint": "A musical instrument with strings played by plucking them with fingers."
+  },
+  {
+    "word": "iguana",
+    "hint": "A large, herbivorous lizard with a long tail and spiky crest along its back."
+  },
+  {
+    "word": "jazz",
+    "hint": "A genre of music characterized by improvisation, syncopation, and distinctive rhythms."
+  },
+  {
+    "word": "kangaroo",
+    "hint": "A marsupial from Australia known for its powerful hind legs and pouch."
+  },
+  {
+    "word": "lighthouse",
+    "hint": "A tall tower with a bright light used to guide ships at sea."
+  },
+  {
+    "word": "mountain",
+    "hint": "A large landform that rises steeply above its surroundings."
+  },
+  {
+    "word": "nightingale",
+    "hint": "A small songbird known for its beautiful and melodic nighttime singing."
+  },
+  {
+    "word": "ostrich",
+    "hint": "A large flightless bird with long legs and neck, native to Africa."
+  },
+  {
+    "word": "penguin",
+    "hint": "A flightless bird found in the Southern Hemisphere, often dressed in a tuxedo-like plumage."
+  },
+  {
+    "word": "quilt",
+    "hint": "A warm bed cover made of two layers of cloth filled with padding and stitched together."
+  },
+  {
+    "word": "rain",
+    "hint": "Water falling from the clouds in droplets."
+  },
+  {
+    "word": "sailboat",
+    "hint": "A boat with sails, typically used for recreation or sport."
+  },
+  {
+    "word": "tiger",
+    "hint": "A large carnivorous feline with a distinctive orange coat and black stripes."
+  },
+  {
+    "word": "umbrella",
+    "hint": "A device used for protection against rain or sunlight, consisting of a collapsible canopy attached to a folding metal frame."
+  },
+  {
+    "word": "volcano",
+    "hint": "A mountain or hill that erupts molten lava and gases from its interior."
+  },
+  {
+    "word": "waterfall",
+    "hint": "A cascade of water flowing from a height, often found in rivers and streams."
+  }
+]

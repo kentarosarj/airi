@@ -1,0 +1,27 @@
+[
+  {
+    "sentence": "The capital city of France is ____.",
+    "choices": ["Paris", "Rome", "London", "Berlin"],
+    "answer": "Paris"
+  },
+  {
+    "sentence": "The currency of Japan is ____.",
+    "choices": ["Yuan", "Euro", "Pound", "Yen"],
+    "answer": "Yen"
+  },
+  {
+    "sentence": "The largest planet in our solar system is ____.",
+    "choices": ["Earth", "Venus", "Mars", "Jupiter"],
+    "answer": "Jupiter"
+  },
+  {
+    "sentence": "The national flower of India is ____.",
+    "choices": ["Rose", "Lily", "Lotus", "Tulip"],
+    "answer": "Lotus"
+  },
+  {
+    "sentence": "The Great Barrier Reef is located in ____.",
+    "choices": ["Australia", "Brazil", "Canada", "Mexico"],
+    "answer": "Australia"
+  }
+]

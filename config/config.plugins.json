@@ -1,0 +1,89 @@
+{
+  "bandori": {
+    "pullRate": {
+      "_SPECIAL": 2,
+      "_4STARS": 20,
+      "_3STARS": 100,
+      "_2STARS": 300
+    },
+    "pullCost": 500,
+    "refund": 150
+  },
+  "daily": {
+    "min": 3000000000,
+    "max": 100000000000
+  },
+  "work": {
+    "min": 2000000000,
+    "max": 100000000000,
+    "delay": [
+      1800000,
+      3600000,
+      10800000,
+      7200000,
+      21600000
+    ]
+  },
+  "sicbo": {
+    "minbet": 50
+  },
+  "send": {
+    "minAmount": 100,
+    "fee": 0.05
+  },
+  "audio": {
+    "MAX_SONGS": 6
+  },
+  "video": {
+    "MAX_VIDEOS": 6
+  },
+  "animalhunt": {
+    "minbet": 400
+  },
+  "shoot": {
+    "minbet": 100,
+    "maxbet": 5000000000
+  },
+  "fishing": {
+    "minbet": 300
+  },
+  "spin": {
+    "minbet": 100,
+    "minBet": 100,
+    "winChance": 0.5,
+    "winningNumber": 3,
+    "prizeAmount": 100000000
+  },
+  "flipcoin": {
+    "minbet": 50
+  },
+  "flip": {
+    "minbet": 50
+  },
+  "archer": {
+    "minbet": 50
+  },
+  "archery": {
+    "minbet": 100
+  },
+  "example": {
+    "extraProp": "This is an extra property"
+  },
+  "roll": {
+    "winningNumber": 7,
+    "prizeAmount": 50000
+  },
+  "rockpaperscissors": {
+    "minbet": 50
+  },
+  "rps": {
+    "minbet": 50
+  },
+  "dice": {
+    "minbet": 50
+  },
+  "ai1": {
+    "openaiKey": "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",
+    "organization": "org-i420aJyNw3TD7aELnxji9sMI"
+  }
+}
